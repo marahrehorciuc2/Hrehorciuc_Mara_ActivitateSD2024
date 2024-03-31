@@ -1,0 +1,6 @@
+﻿  FileName.c
+C:\Users\AndiHrehorciuc\source\repos\semi6\FileName.c(65,50): warning C4013: 'strlen' undefined; assuming extern returning int
+C:\Users\AndiHrehorciuc\source\repos\semi6\FileName.c(66,5): warning C4013: 'strcpy' undefined; assuming extern returning int
+C:\Users\AndiHrehorciuc\source\repos\semi6\FileName.c(95,19): warning C4013: 'strcmp' undefined; assuming extern returning int
+C:\Users\AndiHrehorciuc\source\repos\semi6\FileName.c(142,60): warning C4305: 'function': truncation from 'double' to 'float'
+  semi6.vcxproj -> C:\Users\AndiHrehorciuc\source\repos\semi6\x64\Debug\semi6.exe
