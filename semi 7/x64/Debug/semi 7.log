@@ -1,0 +1,3 @@
+﻿  FileName.c
+C:\Users\AndiHrehorciuc\source\repos\semi 7\FileName.c(47,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  semi 7.vcxproj -> C:\Users\AndiHrehorciuc\source\repos\semi 7\x64\Debug\semi 7.exe
